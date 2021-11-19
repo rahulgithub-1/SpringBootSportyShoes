@@ -1,0 +1,5 @@
+package com.rahul.SpringBootSportyShoe.Model;
+
+public class User {
+
+}
